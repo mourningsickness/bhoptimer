@@ -216,6 +216,14 @@
 		"#format"		"{1:s},{2:s}"
 		"en"			"Loading unzoned map {1}{2}"
 	}
+	"NoUnzonedMapsFound"
+	{
+		"en"			"No unzoned maps found."
+	}
+	"NoZonedMapsFound"
+	{
+		"en"			"No zoned maps found."
+	}
 	"ReloadMap"
 	{
 		"en"			"Reloading current map..."
